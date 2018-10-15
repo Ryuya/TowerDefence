@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerBase
+  - Enemy
+  - Turret
+  - Fire
+  - FirstSkill
+  - Enviromment
+  - GatlingLv3
+  - Missile
+  - SetTuuretCanvas
+  - SetUpgradeCanvas
+  - UpgradeCostText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Turret
+  - Ground
+  - Ennemy
+  - Enviromment
+  - Base
+  - Skill
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 2101596935
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Skill
+    uniqueID: 165423981
+    locked: 0
+  - name: Enviromment
+    uniqueID: 1182485157
+    locked: 0

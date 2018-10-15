@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 621d5fcf71c4e3149ad57145640988df, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  id: 2
+  spawnPoints:
+  - {fileID: 1796945395666510, guid: 5790eec26dd164a79a5b05fdb0babd24, type: 2}
+  waveList:
+  - offsetSec: 3
+    spawns:
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    getCoolDown: 5
+  - offsetSec: 3
+    spawns:
+    - unitId: 2
+      pointId: 0
+    getCoolDown: 0
+  - offsetSec: 3
+    spawns:
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    getCoolDown: 5
+  - offsetSec: 3
+    spawns:
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    getCoolDown: 5
+  - offsetSec: 11
+    spawns:
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    getCoolDown: 5
+  - offsetSec: 2
+    spawns:
+    - unitId: 1
+      pointId: 0
+    - unitId: 1
+      pointId: 0
+    getCoolDown: 5
+  - offsetSec: 1
+    spawns:
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    getCoolDown: 5
+  - offsetSec: 1
+    spawns:
+    - unitId: 1
+      pointId: 0
+    - unitId: 1
+      pointId: 0
+    getCoolDown: 5
+  - offsetSec: 1
+    spawns:
+    - unitId: 1
+      pointId: 0
+    - unitId: 1
+      pointId: 0
+    - unitId: 1
+      pointId: 0
+    getCoolDown: 12
+  - offsetSec: 1
+    spawns:
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    - unitId: 7
+      pointId: 0
+    getCoolDown: 12
+  - offsetSec: 1
+    spawns:
+    - unitId: 2
+      pointId: 0
+    - unitId: 2
+      pointId: 0
+    - unitId: 2
+      pointId: 0
+    - unitId: 2
+      pointId: 0
+    - unitId: 2
+      pointId: 0
+    getCoolDown: 20

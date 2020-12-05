@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Demo.unity
     guid: 4a8c7bdb5ece94dc08b6a1fb81c6e0d8
   - enabled: 1
-    path: Assets/Scenes/SceneSelect.unity
+    path: Assets/Scenes/StageSelect.unity
     guid: 6da9a7166ba63452eb184f9d7642321d
   - enabled: 1
     path: Assets/Scenes/MasteryPage.unity
@@ -37,10 +37,11 @@ EditorBuildSettings:
     guid: 596eb31b663734ca4877709b647dc8b3
   - enabled: 1
     path: Assets/Scenes/UI.unity
-    guid: 00000000000000000000000000000000
+    guid: 025f3b3ca13da49f095e504c0640fc54
   - enabled: 1
     path: Assets/Scenes/Stage8.unity
     guid: 989da61ab40854ae88d3fa1db5610778
   - enabled: 1
     path: Assets/Scenes/Stage9.unity
     guid: 9883689072c2045648b7c117d03a465d
+  m_configObjects: {}

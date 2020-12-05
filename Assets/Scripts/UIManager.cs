@@ -135,7 +135,7 @@ namespace Assets.Scripts
 
 		public void GoStageSelect ()
 		{
-			SceneManager.LoadScene ("SceneSelect");
+			SceneManager.LoadScene ("StageSelect");
 		}
 	}
 
